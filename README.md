@@ -5,8 +5,7 @@ A comprehensive analysis of hotel booking patterns using Excel. This project exp
 ![Hotel view](https://c4.wallpaperflare.com/wallpaper/451/186/556/best-hotels-booking-pool-vacation-wallpaper-preview.jpg)
 
 
-* **Dataset**
-* [**Hotel_Booking.xlsx**](https://github.com/sapnagangad/Hotel_Booking_Analysis/blob/main/hotel_booking.csv)
+* **Dataset**-[**Hotel_Booking.xlsx**](https://github.com/sapnagangad/Hotel_Booking_Analysis/blob/main/hotel_booking.csv)
 
 
 
