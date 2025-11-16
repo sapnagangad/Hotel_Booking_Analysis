@@ -46,8 +46,7 @@ The analysis can support data-driven decisions for hotel management and marketin
 * Segmentation of customers based on stay duration and booking channel
 
 1. **Dashboard**
-![Dashboard](![Hotel view](https://c4.wallpaperflare.com/wallpaper/451/186/556/best-hotels-booking-pool-vacation-wallpaper-preview.jpg)
-)
+![Dashboard](https://github.com/sapnagangad/Hotel_Booking_Analysis/blob/main/Pictures/Dashboard.png)
 
 ---
 
