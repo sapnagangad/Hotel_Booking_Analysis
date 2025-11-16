@@ -22,7 +22,7 @@ The analysis can support data-driven decisions for hotel management and marketin
 
 ## 📁 Project Files
 
-* [**Hotel_Booking_Analysis.xlsx**](https://raw.githubusercontent.com/your-username/your-repo/main/Hotel_Booking_Analysis.xlsx)
+* [**Hotel_Booking_Analysis.xlsx**](https://github.com/sapnagangad/Hotel_Booking_Analysis/blob/main/hotel_booking.csv)
  – Main dataset and Excel-based analysis, including:
 
   * Pivot tables
