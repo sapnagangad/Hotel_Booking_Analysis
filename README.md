@@ -5,7 +5,7 @@ A comprehensive analysis of hotel booking patterns using Excel. This project exp
 ![Hotel view](https://c4.wallpaperflare.com/wallpaper/451/186/556/best-hotels-booking-pool-vacation-wallpaper-preview.jpg)
 
 
-* **Dataset**-[**Hotel_Booking.xlsx**](https://github.com/sapnagangad/Hotel_Booking_Analysis/blob/main/hotel_booking.csv)
+* **Dataset** - [**Hotel_Booking.xlsx**](https://github.com/sapnagangad/Hotel_Booking_Analysis/blob/main/hotel_booking.csv)
 
 
 
@@ -44,6 +44,10 @@ The analysis can support data-driven decisions for hotel management and marketin
 * Cancellation trend analysis
 * Comparative metrics for hotel segments
 * Segmentation of customers based on stay duration and booking channel
+
+1. **Dashboard**
+![Dashboard](![Hotel view](https://c4.wallpaperflare.com/wallpaper/451/186/556/best-hotels-booking-pool-vacation-wallpaper-preview.jpg)
+)
 
 ---
 
